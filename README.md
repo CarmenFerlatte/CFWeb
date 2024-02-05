@@ -11,9 +11,8 @@ Hello world, ceci est mon profile
 
 <a href="https://fb.com/cfweb.ca" target="blank"><img align="center" src="https://cfweb.ca/img/social/facebook.svg" alt="logo Facebook" width="40" height="30"></a>
 
-<a href="https://www.youtube.com/c/cfweb" target="blank"><img align="center" src="https://cfweb.ca/img/social/youtube.svg" alt="logo YouTube" width="40" height="30"></a>
-</p>
-<p>&nbsp;</p>
+<a href="https://www.youtube.com/c/cfweb" target="blank"><img align="center" src="https://cfweb.ca/img/social/youtube.svg" alt="logo YouTube" width="40" height="30"></a></p>
+
 <h3 align="left ">Langues et outils :</h3>
 
 <p align="left">
@@ -36,7 +35,7 @@ Hello world, ceci est mon profile
     
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noopener noreferrer"> <img src="https://cfweb.ca/img/social/Adobe_XD_CC_icon.svg" alt="logo xd" width="40" height="40"> </a>
 </p> 
-<p>&nbsp;</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carmenferlatte&show_icons=true&locale=en&layout=compact" alt="Carmen Ferlatte"></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=carmenferlatte&show_icons=true&locale=en" alt="carmenferlatte"></p>
