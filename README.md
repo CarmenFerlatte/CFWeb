@@ -19,8 +19,8 @@ Hello world, ceci est mon profile
 
 <h3 align="left">Other tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/fr-ca/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/microsoft_office_excel.svg" alt="Excel" width="40"> </a> 
-  <a href="https://www.microsoft.com/fr-ca/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/microsoft_office_word2019" alt="Word" width="40"> </a> 
-  <a href="https://www.adobe.com/ca_fr/" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/adobe_acrobat_reader_icon_2020" alt="Adobe PDF" width="40"> </a> </p>
+  <a href="https://www.microsoft.com/fr-ca/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/microsoft_office_word2019.svg" alt="Word" width="40"> </a> 
+  <a href="https://www.adobe.com/ca_fr/" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/adobe_acrobat_reader_icon_2020.svg" alt="Adobe PDF" width="40"> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carmenferlatte&show_icons=true&locale=en&layout=compact" alt="carmenferlatte"></p>
 
