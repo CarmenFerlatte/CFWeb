@@ -20,10 +20,10 @@ Hello world, ceci est mon profile
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"> </a> 
   <a href="https://balsamiq.com/" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/balsimiq_smiley_face.svg" alt="Balsimiq" width="40" height="40"> </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"> </a>
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/adobe_photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"> </a>
-  <a href="https://www.adobe.com/ca_fr/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/adobe_illustrator_icon.svg" alt="illustrator" width="40" height="40"> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cfweb.ca/img/social/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"> </a>
+ 
 </p>
 
 <h3 align="left">Other tools:</h3>
