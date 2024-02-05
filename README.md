@@ -3,7 +3,7 @@ Hello world, ceci est mon profile
 <h1 align="center">Bonjour 👋, je m'appelle Carmen Ferlatte</h1>
 <h3 align="center">Je suis designer Web, Intégrateur Web et en formation pour être développeur Web.</h3>
 
-<p align ="gauche"> <img src="https://komarev.com/ghpvc/?username=carmenferlatte&label=Profile%20views&color=0e75b6&style=flat" alt="carmenferlatte"> </p>
+<p align ="left"> <img src="https://komarev.com/ghpvc/?username=carmenferlatte&label=Profile%20views&color=0e75b6&style=flat" alt="carmenferlatte"> </p>
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
